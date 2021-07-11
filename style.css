@@ -100,4 +100,12 @@ width: 100px;
     border-radius: 30px;
     margin-left: 20px;
 }
-
+.conclusion{
+    background-color:powderblue;
+    box-shadow:5px 5px 18px grey;
+    border-radius: 10px;
+    height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 1000px;
+    text-align: center;
+}
